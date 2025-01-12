@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 kgss/process.ipynb
 data/process.ipynb
+bucket
+__pycache__
