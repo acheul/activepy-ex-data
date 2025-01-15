@@ -17,3 +17,6 @@
 
     - Robert West and Jure Leskovec: Human Wayfinding in Information Networks. 21st International World Wide Web Conference (WWW), 2012.
     - Robert West, Joelle Pineau, and Doina Precup: Wikispeedia: An Online Game for Inferring Semantic Distances between Concepts. 21st International Joint Conference on Artificial Intelligence (IJCAI), 2009.
+
+- lyrics:
+  * IU: 밤편지(bp.txt), 무릎(ml.txt), 푸르던(pr.txt)
